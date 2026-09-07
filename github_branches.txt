@@ -1,0 +1,4 @@
+git branch -vv
+* bug-fix-revert c9577cc [origin/bug-fix-revert] Revert "committing fix to README.md file"
+  bug-fix-typo   9879f2c [origin/bug-fix-typo] committing fix to README.md file
+  main           9879f2c [origin/main: ahead 1] committing fix to README.md file
